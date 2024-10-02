@@ -1,0 +1,18 @@
+{
+  "name": "OddBox",
+  "author": "Kai Klostermann",
+  "version": "0.1.0",
+  "description": "A theme for LogSeq based on the popular Gruvbox color palette.",
+  "logseq": {
+    "themes": [
+      {
+        "name": "OddBox",
+        "url": "./gruvbox.css",
+        "description": "A theme based on the popular Gruvbox color palette.",
+        "mode": "dark"
+      }
+    ],
+    "id": "oddbox",
+    "icon": "./icon.png"
+  }
+}
