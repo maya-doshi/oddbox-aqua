@@ -3,7 +3,7 @@ A Gruvbox theme for LogSeq
 
 Currently only supports dark theme.
 
-#+html: <p align="center"><img src="icon.png" /></p>
+<p align="center"><img src="icon.png" /></p>
 
 ## Intro
 A LogSeq theme based on the popular [Gruvbox color scheme](https://arsmoriendy.github.io/GruvboxHSL/).
