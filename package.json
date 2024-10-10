@@ -1,7 +1,7 @@
 {
   "name": "OddBox",
   "author": "Kai Klostermann",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "A theme for LogSeq based on the popular Gruvbox color palette.",
   "logseq": {
     "themes": [
