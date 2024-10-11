@@ -13,3 +13,5 @@ A LogSeq theme based on the popular [Gruvbox color scheme](https://arsmoriendy.g
 
 ## How to Use
 Install from the official LogSeq Marketplace.
+
+![A screenshot of the app LogSeq showing the marketplace with the theme OddBox](/img/screenshot_marketplace.png)
