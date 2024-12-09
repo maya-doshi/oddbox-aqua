@@ -15,3 +15,9 @@ A LogSeq theme based on the popular [Gruvbox color scheme](https://arsmoriendy.g
 Install from the official LogSeq Marketplace.
 
 ![A screenshot of the app LogSeq showing the marketplace with the theme OddBox](/img/screenshot_marketplace.png)
+
+If you also want to use a fitting theme for the code editor and code blocks, add the following line to you [`config.edn`](https://github.com/logseq/logseq/pull/3699):
+
+```
+:editor/extra-codemirror-options {:theme "gruvbox-dark"}
+```
